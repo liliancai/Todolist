@@ -1,4 +1,4 @@
 # Todolist
-An simple Android todolist with strikthrough effect
+An simple Android todolist with strikthrough effect.
 
-<!-A calendar with to-do list every day-->
+TODO: A calendar with a to-do list inside, and reminder feature.
